@@ -9,3 +9,8 @@
 ## App Screenshots
     ![alt text](https://thumb.ibb.co/i0dEgy/Screenshot_2018_07_22_08_56_53.png)
     ![alt text](https://thumb.ibb.co/mTfhZJ/Screenshot_2018_07_22_08_57_14.png)
+
+    <p align="center">
+  <img src="https://thumb.ibb.co/i0dEgy/Screenshot_2018_07_22_08_56_53.png" width="350" title="hover text">
+  <img src="https://thumb.ibb.co/mTfhZJ/Screenshot_2018_07_22_08_57_14.png" width="350" alt="accessibility text">
+</p>
